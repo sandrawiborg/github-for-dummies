@@ -10,6 +10,7 @@ Dette repoet er en øvingsplass for å lære å:
 - Lagre endringer med tydelige commit-meldinger.
 - Bruke branches for å jobbe med endringer uten å endre hovedversjonen.
 - Foreslå og diskutere endringer gjennom pull requests.
+- godkjenne pull requests fra andre
 
 ## Innhold
 
